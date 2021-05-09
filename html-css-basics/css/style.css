@@ -17,7 +17,13 @@ h1 {
 
 /* this will change the color of header 2 */
 h2 {
-    color: darkkhaki;
+    color: darkgreen;
+    width: 1000px;
+    border-color: brown;
+    border-width: 10px;
+    border-style: dotted;
+    padding: 50px;
+    margin: 20px;
 }
 
 /* this will change the color of header 3 */
