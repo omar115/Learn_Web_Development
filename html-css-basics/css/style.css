@@ -1,0 +1,26 @@
+/* This will change the background color */
+body {
+    background-color: antiquewhite;
+    
+}
+
+/* this is for hyperlink color */
+a{
+    color: crimson;
+
+}
+
+/* this will change the color of header 1 */
+h1 {
+    color: chocolate;
+}
+
+/* this will change the color of header 2 */
+h2 {
+    color: darkkhaki;
+}
+
+/* this will change the color of header 3 */
+h3 {
+    color: tomato;
+}
